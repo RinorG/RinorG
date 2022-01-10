@@ -1,4 +1,4 @@
-It's-a me Rinor!
+It's me Rinor!
 
 I love computer-stuff, aerospace-stuff and business-stuff.
 I <3 React n' Node.
